@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2">
-    <img alt=Support weight="10" src="https://i.ibb.co/khjYsbs/20241220-065009.jpg"> 
+  <a href="https://chat.whatsapp.com/JARnBRI4L573ppj40f7aOu">
+    <img alt=Support weight="10" src="https://i.ibb.co/W9qQ6bf/20241220-065009.jpg"> 
     </p>
-<h1 align="center">ELITE-PRO-V1</h1>
+<h1 align="center">ARGHA-BOT-V1</h1>
 <p align="center"> 
     </p>
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/IozXlwmmRzJ24un1jtjEZ2" target="_blank">
+  <a aria-label="Join our" href="https://chat.whatsapp.com/JARnBRI4L573ppj40f7aOu" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
     <a align="center">
-  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g" target="_blank">
+  <a aria-label="Follow Channel" href="https://whatsapp.com/channel/0029Vb5YInp0LKZ8sDc6391A" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Follow Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-<a aria-label="Chat me" href="https://t.me/elitepro_md" target="_blank">
+<a aria-label="Chat me" href="https://t.me/arghadipde" target="_blank">
     <img alt="telegram" src="https://img.shields.io/badge/Telegram Group-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 ## DEPLOYMENT METHODS
 
 - Click on **[FORK](https://github.com/EliteProTech/ELITE-PRO-V1/fork)**
-- Click here to get **[SESSION_ID](https://elitepro-sessions.onrender.com)**
+- Click here to get **[SESSION_ID](https://elitepro-session-id.onrender.com/)**
 - Uploading session_id (Creds.json) in session folder.
 - Edit Config.js or .env to your Choice.
 
@@ -32,7 +32,6 @@
 
 ## FOR PANEL DEPLOYMENT
 
-- Click on **[DOWNLOAD](https://eliteproverified.vercel.app/)** to get zip file🗃.
 - Click on **[BOT-HOSTING.NET](https://bot-hosting.net/)**
 - Create a server
 - Upload zip file 🗃️ 
@@ -94,7 +93,7 @@ Paste this after the installation
 ---
 
   ## DESCRIPTION
-I'm Elite-Pro a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
+I'm Argha_Bot a public WhatsApp bot with rich features Created by Chinwo Chinedu Emmanuel. Feel free to deploy my bot in any of the deployment site. 😜
 
  --- 
 - Star ⭐ repo if you like this bot.
