@@ -36,15 +36,15 @@ global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
 // Sticker details
 global.packname = process.env.PACKNAME || 'Sticker By';
-global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2348109263390';
+global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +919339306664';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
 global.wm = process.env.WM || "Youtube @EliteProTech";
-global.link = process.env.LINK || 'https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g';
+global.link = process.env.LINK || 'https://whatsapp.com/channel/0029Vb5YInp0LKZ8sDc6391A';
 
 // Text bug
 global.xbugtex = {
-    xtxt: '👨‍💻ELITE-PRO👨‍💻',
+    xtxt: '👨‍💻ARGHA-BOT👨‍💻',
 };
 
 // Reply messages
