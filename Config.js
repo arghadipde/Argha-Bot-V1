@@ -1,3 +1,4 @@
+
 require('dotenv').config();
 const fs = require('fs');
 const chalk = require('chalk');
@@ -11,7 +12,7 @@ global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
 
 // Creator details
 global.ownernumber = process.env.OWNER_NUMBER || '919339306664';
-global.ownername = process.env.OWNER_NAME || 'ElitePro';
+global.ownername = process.env.OWNER_NAME || 'ArghaBot';
 global.botname = process.env.BOT_NAME || 'ARGHA-BOT-V1';
 
 // Default settings 
@@ -20,8 +21,8 @@ global.prefa = process.env.PREFIX ? process.env.PREFIX.split(',') : ['', '!', '.
 global.autoRecording = process.env.AUTO_RECORDING === 'true';
 global.autoTyping = process.env.AUTO_TYPING === 'true';
 global.autorecordtype = process.env.AUTO_RECORD_TYPE === 'true';
-global.autoread = process.env.AUTO_READ === 'true';
-global.autobio = process.env.AUTO_BIO !== 'false'; // default true
+global.autoread = process.env.AUTO_READ === 'true'; // default true
+global.autobio = process.env.AUTO_BIO !== 'false'; // default false
 global.anti92 = process.env.ANTI_92 === 'true';
 global.autoswview = process.env.AUTO_SW_VIEW !== 'false'; // default true
 global.welcome = process.env.WELCOME !== 'false'; // default true
@@ -29,7 +30,7 @@ global.autoreact = process.env.AUTO_REACT === 'true';
 global.autolikestatus = process.env.AUTO_LIKE_STATUS === 'true';
 
 // Thumbnail profile picture
-global.elitepropp = process.env.ELITE_PRO_PP || 'https://i.ibb.co/jk0ynvbn/7a8c4b5b617fa11a1e9a61190f427546.jpg';
+global.elitepropp = process.env.ELITE_PRO_PP || 'https://ibb.co/JR2fR3cF';
 // Default emoji
 global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
